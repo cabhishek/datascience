@@ -1,0 +1,10 @@
+cffi==0.8
+flake8==2.2.2
+greenlet==0.4.0
+mccabe==0.2.1
+pep8==1.5.7
+pyflakes==0.8.1
+pyp==2.12
+pythonpy==0.3.4
+readline==6.2.4.1
+wsgiref==0.1.2
