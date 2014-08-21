@@ -1,4 +1,4 @@
-datascience
+Datascience
 ===========
 
-IPython notebook setup for doing data science. 
+IPython notebook setup doing data science.
